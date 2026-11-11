@@ -1,0 +1,15 @@
+---
+title: "Homework 5"
+output: pdf_document
+date: "2026-11-11"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r list_files}
+
+list.files("data")
+
+```
